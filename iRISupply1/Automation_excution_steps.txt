@@ -1,0 +1,24 @@
+Steps to run automation script for iRISWeb through QTP:
+
+
+1) Copy the Automation Folder to C drive.
+
+2) Start QTP application (i.e double click on QTP icon on dekstop or Select from Start Menu)
+
+3) Select "Continue" in License dialog.
+
+4) When QTP-IDE is dispalyed completely then Click on "Open" Navigate to path c:\Hybrid_Start_Supply
+
+5) Go to "My Computer " click on C:\ drive 
+
+6) Click on Maspects folder and open the spreadsheet "Trial.xls"
+
+7) In the Excel Sheet put "Yes" or "yes" for the respective Test-Cases which has to be executed  in "Sheet1"
+
+8)Click on Maspects folder and open the spreadsheet "Trial.xls" In "Sheet3" Enter Rfid Numbers
+
+9)Click on Maspects folder and open the spreadsheet "Trial.xls" In "Sheet4" Enter DB Details
+
+10)Just  Review results coloumn in both "trial" and "database sheets" if any values is there remove (ex:-Pass Or Fail)
+
+11)Then Click on Run Button In QTP
